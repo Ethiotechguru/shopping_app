@@ -3,8 +3,14 @@ class Food{
     this.food = ['one','two', 'three', 'four'];
   }
   addMoreFood(item){
-    this.food.puhs(item);
+    if(Array.isArray(item)){
+      this.food.push(...item)
+    }else{
+      this.food.push(item);
+    }
     console.log(this.food);
   }
 }
 let newItem = new Food();
+
+newItem.addMoreFood(['enjera', 'dabo', 'sambusa'])
