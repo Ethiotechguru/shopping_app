@@ -1,3 +1,3 @@
-connst app = (name)=>{
-  console.loog(name);
+const app = (name)=>{
+  console.log(name);
 }
