@@ -1,3 +1,3 @@
 const test = () => {
-  console.lot('Hello Africa")
+  console.lot("Hello Africa")
 }
