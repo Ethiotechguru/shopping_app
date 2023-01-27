@@ -15,13 +15,13 @@ Full stack shopping app using technologies such as nodejs, reactjs, expressjs, d
 | Hello Ethiopia  | Biggest country in Africa    |
 
 [I am google](https://google.com)
-<img src="https://www.bhphotovideo.com/images/images100x100/canon_eos_r3_mirrorless_digital_1634981.jpg" alt="image">
+![Camera](https://www.bhphotovideo.com/images/images100x100/canon_eos_r3_mirrorless_digital_1634981.jpg)
 
-<ul>
-  <li>One</li>
-  <li>Two</li>
-  <li>Three</li>
-  <li>Four</li>
-  <li>Five</li>
-</ul>
+* one
+* Two
+* Three
+* Four
+* Five
+* Six
+* Seven
 
