@@ -15,7 +15,7 @@ Full stack shopping app using technologies such as nodejs, reactjs, expressjs, d
 | Hello Ethiopia  | Biggest country in Africa    |
 
 [I am google](https://google.com)
-![Camera](./readMeImages/OnlineShoppingProcess.png "The whole")
+![Camera](./readMeImages/OnlineShoppingProcess.jpg "The whole")
 
 * one
 * Two
