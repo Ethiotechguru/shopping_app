@@ -12,5 +12,4 @@ Full stack shopping app using technologies such as nodejs, reactjs, expressjs, d
 | Documentation   |                                 |
 |-----------------|---------------------------------|
 | Hello Africa    |                                 |
-|-----------------|---------------------------------|
 | Hello Ethiopia  |                                 |
