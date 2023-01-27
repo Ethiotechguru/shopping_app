@@ -14,4 +14,5 @@ Full stack shopping app using technologies such as nodejs, reactjs, expressjs, d
 | Hello Africa    | Biggest Continent in the world  |
 | Hello Ethiopia  | Biggest country in Africa    |
 
-<a href="https://google.com">Hello Africa</a>s
+<a href="https://google.com">Hello Africa</a>
+<img src="https://www.bhphotovideo.com/images/images1000x1000/canon_eos_r3_mirrorless_digital_1634981.jpg" alt="image">
