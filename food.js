@@ -14,3 +14,4 @@ class Food{
 let newItem = new Food();
 
 newItem.addMoreFood(['enjera', 'dabo', 'sambusa'])
+console.log("hello")
