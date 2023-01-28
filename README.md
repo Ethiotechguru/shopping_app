@@ -8,3 +8,20 @@ Full stack shopping app using technologies such as nodejs, reactjs, expressjs, d
 - James
 - Alicia
 - Robert
+
+| Documentation   |                                 |
+|-----------------|---------------------------------|
+| Hello Africa    | Biggest Continent in the world  |
+| Hello Ethiopia  | Biggest country in Africa    |
+
+[I am google](https://google.com)
+![Camera](./readMeImages/OnlineShoppingProcessBig.jpg "The whole")
+
+* one
+* Two
+* Three
+* Four
+* Five
+* Six
+* Seven
+
