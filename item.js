@@ -7,4 +7,9 @@ class Item{
         this.items.push({name,price,category})
     }
     
+    sort(){
+       return this.items.sort((a,b)=>{
+            return a.price-b.price;
+        })
+    }
 }
