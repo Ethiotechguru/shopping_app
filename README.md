@@ -24,5 +24,4 @@ Full stack shopping app using technologies such as nodejs, reactjs, expressjs, d
 * Five
 * Six
 * Seven
-* Eghiet
 
