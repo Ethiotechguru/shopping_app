@@ -15,3 +15,5 @@ user.addUser("age", 23, "sales");
 user.addUser("mora", 34, "engineer");
 user.addUser("tufa", 23, "tumaka");
 user.addUser("dema", 23, "duma");
+
+user.addUser('Mamo', 22, "Farmer")
